@@ -31,7 +31,7 @@ const Home: React.FC = () => (
       </div>
       <div className="mt-6 flex space-x-4">
         <a
-          href="https://signvisiontest-603530e22761.herokuapp.com/"
+          href="https://demo.signvision.app/"
           className="px-6 py-3 bg-blue-500 text-white font-semibold rounded-lg hover:bg-blue-600"
         >
           Click here for demo
